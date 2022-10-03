@@ -1,5 +1,10 @@
 /*********
 	Summary Count of Customers by Country and Gender
+
+	Is this going to be added on develop branch?
+
+	Yes, indeed. It worked as expected.
+
 **********/
 With tbl_Table1 As (
 	Select g.EnglishCountryRegionName as Country
