@@ -1,5 +1,5 @@
 /*********
-	Total Sales by Number of Customer and Country
+	Count Number of customers and calculate the total sales amount, present the result by Country
 **********/
 
 Select g.EnglishCountryRegionName as Country
